@@ -1,1 +1,1 @@
-# image-wizard
+# Image Wizard Tool
